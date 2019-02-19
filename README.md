@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/terrontheon/SimpleTweet/blob/master/Twitter.gif' />
+<img src='https://github.com/terrontheon/SimpleTweet/blob/master/Terrontheon%20Twitter.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
